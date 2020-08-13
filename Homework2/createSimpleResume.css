@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(113, 227, 255, 0.658);
+}
+.blockClass{
+    background-color: white;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+.content {
+    margin-block-start: 1em;
+}
+.hl {
+    border-bottom: 1px solid black;  
+}
+span {
+    font-size: larger;
+}
